@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prateek Tanwar</h1>
+<p align="center">
+  <img alt="neon" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='900' height='120'><defs><filter id='g'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs><rect width='100%' height='100%' fill='transparent'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Fira Sans, Arial' font-size='40' fill='%2300ff00' filter='url(%23g)'>Hi there, I am Prateek Tanwar</text></svg>">
+</p>
+
 
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **C, HTML, CSS, JavaScript**
